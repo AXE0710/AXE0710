@@ -109,14 +109,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31p7yhabrooib6nkr627s3juk27m">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p7yhabrooib6nkr627s3juk27m&count={count})
-  </a>
-</div>
 
-###
-
-<img src="https://raw.githubusercontent.com/AXE0710/AXE0710/output/snake.svg" alt="Snake animation" />
-
-###
