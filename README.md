@@ -93,15 +93,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats 🔥</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AXE0710&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 <div align="center">
   <img height="200" src="https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif"  />
