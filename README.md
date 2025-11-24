@@ -1,29 +1,5 @@
-<img align="right" height="150" src="https://i.gifer.com/3AyY.gif"  />
+<img  height="150" src="https://i.gifer.com/3AyY.gif"  />
 
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/aayush-kewat-a3a91a215" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://youtube.com/@AXE0710" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/aayushkewat0710" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://instagram.com/aayush_kewat07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AXE0710/count.svg?"  />
-</div>
-
-###
 
 <h1 align="center">Hello There!!</h1>
 
