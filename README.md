@@ -3,7 +3,7 @@
 ### 
 
 <div align="center">
-  <img src="https://i.imgur.com/FRU5ot4.gif" width="100%" alt="Descriptive Alt Text" />
+  <img src="https://i.imgur.com/FRU5ot4.gif" width="80%" alt="Descriptive Alt Text" />
 </div>
 
 ###
